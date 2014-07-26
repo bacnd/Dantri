@@ -1,0 +1,10 @@
+<resources>
+
+    <color name="md__transparent">#00000000</color>
+    <color name="md__defaultBackground">#FF555555</color>
+    <color name="image_border_start">#40990000</color>
+    <color name="image_border_end">#FF660000</color>
+    <color name="image_border_center">#FFFF3333</color>
+    <color name="default_back_color">#FFFFFF</color>
+
+</resources>
